@@ -10,7 +10,7 @@ sublimeMQL4compile は [MQL4 (MetaTrader)](http://www.metaquotes.net/en/metatrad
 
 ![sublimeMQL4compile](http://cdn-ak.f.st-hatena.com/images/fotolife/m/mofoolog/20160423/20160423130603.gif?1461384552 "sublimeMQL4compile-gif")
 
-MetaEditor4 で扱う全てのファイル (`.mq4` , `.mqh`) がコンパイル可能です。また、`.dll` や `.ex4` を import した場合も動作します。  
+MetaEditor で扱う全てのファイル (`.mq4` , `.mqh`) がコンパイル可能です。また、`.dll` や `.ex4` を import した場合も動作します。  
 
 &nbsp;
 
@@ -26,7 +26,7 @@ clorn してインストールするか、 zip をダウンロード･解凍し
 
 `sublimeMQL4compile` ディレクトリ内の `sublimeMQL4compile.sublime-settings` ファイルを開き、`"compiler_path"` 欄にご自身の `metaeditor.exe` の絶対パスを入力してください。 
 
-初期設定は以下の通りです。  
+初期設定は以下になっています。  
 
 ```json
 {
